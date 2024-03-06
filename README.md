@@ -15,3 +15,13 @@ Utilizar ContextAPI para gerenciamento de estado (createContext, useContext, use
 Utilizar Tailwind
 
 Criar uma lib de funções acessórias
+
+**Como Rodar**
+
+git clone https://github.com/fabiohaydn79/demo-react.git
+
+git checkout master
+
+npm install
+
+npm run start
