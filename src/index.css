@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bb {
+    border: dotted 1px black;
+}
+
+.bgray {
+    border: solid 1px DarkGray;
+}
+
+.inputStyle {
+    border: solid 1px DarkGray;
+}
